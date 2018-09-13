@@ -11,3 +11,8 @@ This is some text for *my markdown* example
 Another line of __text__
 
 >paragraph text
+
+'''javascript
+function(){
+}
+'''
